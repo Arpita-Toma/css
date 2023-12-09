@@ -1,0 +1,47 @@
+/* css classes */
+#{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    background-color: bisque (0,255,140);
+    height:200px;
+    position:relatives;
+}
+.box2{
+    background-color: beige;
+height:50px;
+width:50px;
+position:absolute;
+right:10%;
+left: -10px;
+top: 50px;
+bottom: -20px;
+}
+.box{
+    background-color: brown;
+    height:200px;
+    /* width:100px; */
+}
+.box2{
+    background-color: blueviolet;
+    height:50px;
+    width:50px;
+    left6:50px;
+    top:25%;
+    position:absolute;
+}
+li{
+    list-style-type: style none;}
+
+    nav> ul> li> a {text-decoration: none;
+        color: blanchedalmond;
+        background-color: aqua;
+        border: 1px solid coral;
+        display: inline-block;
+    }
+    li> a {
+        margin-bottom: 5px;
+    }
+
+    
